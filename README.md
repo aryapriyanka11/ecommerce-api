@@ -45,6 +45,23 @@ npm start
 
 Step 6: Testing APIs with Postman
 
+# Folder Structure of Ecommerce API
+ folder structure for an eCommerce API built using Node.js and MongoDB:
+
+ - /config
+  - mongoose.js
+- /controllers
+  - productController.js
+- /models
+  - Product.js
+- /routes
+  - product.js
+- index.js
+- package.json
+- README.md
+
+
+
 # Open Postman.
 Create a new request by clicking the "New" button.
 Enter the request URL, e.g., http://localhost:3000/api/endpoint.
