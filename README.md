@@ -49,7 +49,7 @@ Step 6: Testing APIs with Postman
  folder structure for an eCommerce API built using Node.js and MongoDB:
 
  - /config
-  - mongoose.js
+   - mongoose.js
 - /controllers
   - productController.js
 - /models
