@@ -2,7 +2,7 @@
 
 Project Setup Guide: Node.js, MongoDB, and Postman
 
---> Prerequisites
+# --> Prerequisites
 Before you start, make sure you have the following software installed on your local system:
 
 -> Node.js: Download and Install Node.js
@@ -45,7 +45,7 @@ npm start
 
 Step 6: Testing APIs with Postman
 
-Open Postman.
+# Open Postman.
 Create a new request by clicking the "New" button.
 Enter the request URL, e.g., http://localhost:3000/api/endpoint.
 Select the HTTP method (GET, POST, PUT, DELETE) you want to test.
